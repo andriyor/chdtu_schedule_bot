@@ -1,0 +1,86 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "b6e5515b3c94debf3c9e48503bdf00c58998280d63b4ed1be726683a51d4a265"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "beautifulsoup4": {
+            "version": "==4.6.0"
+        },
+        "certifi": {
+            "version": "==2017.4.17"
+        },
+        "chardet": {
+            "version": "==3.0.4"
+        },
+        "google-api-python-client": {
+            "version": "==1.6.2"
+        },
+        "httplib2": {
+            "version": "==0.10.3"
+        },
+        "idna": {
+            "version": "==2.5"
+        },
+        "mongoengine": {
+            "version": "==0.13.0"
+        },
+        "oauth2client": {
+            "version": "==4.1.1"
+        },
+        "pendulum": {
+            "version": "==1.2.4"
+        },
+        "pyasn1": {
+            "version": "==0.2.3"
+        },
+        "pyasn1-modules": {
+            "version": "==0.0.9"
+        },
+        "pymongo": {
+            "version": "==3.4.0"
+        },
+        "pytelegrambotapi": {
+            "version": "==3.0.1"
+        },
+        "python-dateutil": {
+            "version": "==2.6.0"
+        },
+        "pytz": {
+            "version": "==2017.2"
+        },
+        "pytzdata": {
+            "version": "==2017.2"
+        },
+        "requests": {
+            "version": "==2.18.1"
+        },
+        "rsa": {
+            "version": "==3.4.2"
+        },
+        "schedule": {
+            "version": "==0.4.3"
+        },
+        "six": {
+            "version": "==1.10.0"
+        },
+        "tzlocal": {
+            "version": "==1.4"
+        },
+        "uritemplate": {
+            "version": "==3.0.0"
+        },
+        "urllib3": {
+            "version": "==1.21.1"
+        }
+    },
+    "develop": {}
+}
