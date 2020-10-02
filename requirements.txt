@@ -20,4 +20,4 @@ schedule==0.4.3
 six==1.10.0
 tzlocal==1.4
 uritemplate==3.0.0
-urllib3==1.21.1
+urllib3==1.25.9
